@@ -2,7 +2,7 @@
 
 You may have seen the split keyboard do42 / do52 / do52 pro on aliexpress
 
-## go to the wiki
+## go to the wiki ( if you already bought it :D )
 
 https://github.com/ilfmoussa/do52pro/wiki
 
