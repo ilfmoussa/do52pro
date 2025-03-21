@@ -2,6 +2,10 @@
 
 You may have seen the split keyboard do42 / do52 / do52 pro on aliexpress
 
+## go to the wiki
+
+https://github.com/ilfmoussa/do52pro/wiki
+
 ## Don't buy IT!!!
 Let me explain, you will pay about 50$ (or euros)... for:
 - 2 pcb (the same for left and right)
